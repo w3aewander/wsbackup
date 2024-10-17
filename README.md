@@ -19,10 +19,10 @@ $ ssh-copy-id user@remote_host
 <p>O backup local é compactado com tar.gz e está armazenado no diretório padrão de usuários no Windows.
 </p>
 
-<p> Os arquivos executáveis para Linux e Windows podem ser baixados e juntamente com o arquivo ini de exemplo (config.ini.exemplo). 
+<p> Os arquivos executáveis para Linux e Windows podem ser baixados e juntamente com o arquivo ini de exemplo <strong>config.ini.exemplo</strong>. 
 </p>
 
-<p> O arquivo *config.ini.exemplo* deve ser renomeado para *config.ini*
+<p> O arquivo <strong>config.ini.exemplo</strong> deve ser renomeado para <strong>config.ini</strong>
 </p>
 
 
