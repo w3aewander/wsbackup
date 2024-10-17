@@ -20,7 +20,7 @@ $ ssh-copy-id user@remote_host
 <p> Os arquivos executáveis para Linux e Windows podem ser baixados e juntamente com o arquivo ini de exemplo (config.ini.exemplo). 
 </p>
 
-<p> O arquivo ***config.ini.exemplo*** deve ser renomeado para ***config.ini***
+<p> O arquivo *config.ini.exemplo* deve ser renomeado para *config.ini*
 </p>
 
 
