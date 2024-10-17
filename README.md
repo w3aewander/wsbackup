@@ -10,8 +10,10 @@
 ### Exemplo para criar uma chave:
 
 <code> 
+
 $ ssh-keygen -t rsa -b 4096 -C "seu-email@example.com"
 $ ssh-copy-id user@remote_host
+
 </code>
 
 <p>O backup local é compactado com tar.gz e está armazenado no diretório padrão de usuários no Windows.
