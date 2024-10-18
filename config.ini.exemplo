@@ -2,3 +2,7 @@
 remote_ip   = xxx.xxx.xxx.xxx
 remote_dir  = /path/to/remotedir
 backup_name = nome_backup_sem_extensao
+remote_port = 22
+username = root
+password = 
+local_dir = ./backups
